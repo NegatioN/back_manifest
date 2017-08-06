@@ -629,5 +629,12 @@
             "udp://tracker.doko.moe:6969", 
             "udp://tracker.zer0day.to:1337/announce"
         ]
+    }, 
+    {
+        "description": "**FAIR USE NOTICE**\nThese Videos May Contain Copyrighted (\u00a9 ) Material. The Use of Which Has Not Always Been Specifically Authorized by The Copyright Owner. Such Material is Made Available to Advance Understanding of Ecological, Political, Human Rights, Economic, Democracy, Scientific, Moral, Ethical, Social Justice Issues, Teaching, and Research. It is believed that this Constitutes a ''Fair Use'' of Any Such Copyrighted Material as Provided For in Section 107 of the US Copyright Law. In Accordance With Title - 17 U.S.C. Section 107, This Material is Distributed Without PROFIT to Those Who Have Expressed a Prior General Interest in Receiving Similar Information For Research and Educational Purposes. For More Information: http://www.law.cornell.edu/uscode", 
+        "duration": "14084s", 
+        "link": "https://www.youtube.com/watch?v=eJ3RzGoQC4s", 
+        "name": "The Century of the Self (Full Documentary)", 
+        "upload_user": "David Lessig"
     }
 ]
